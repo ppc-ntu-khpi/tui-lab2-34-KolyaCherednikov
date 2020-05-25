@@ -2,7 +2,7 @@
 # Lab 2
 # Створення CLI у стилі REPL з допомогою jline 3
 
-<img src="https://github.com/ppc-ntu-khpi/tui-lab1-34-KolyaCherednikov/blob/master/Screenshot.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-KolyaCherednikov/blob/master/Screenshot.png" width="100%"/>
 
 ## На "п'ять"
 1. Завантажте необхідні jar-файли - [jline](https://repo1.maven.org/maven2/org/jline/jline/3.10.0/jline-3.10.0.jar), [jansi](http://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1.jar), [MyBank](https://github.com/liketaurus/TUI-Labs/blob/master/jars/MyBank.jar). Останній файл містить всі класи (*Bank, Customer, Account* та ін.) з наших попередніх лаб. *УВАГА! Також ви можете взяти всі три файли прямо з [цього ж репозиторію](https://github.com/liketaurus/TUI-Labs/blob/master/jars)*.
