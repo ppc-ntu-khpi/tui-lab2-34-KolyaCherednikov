@@ -45,7 +45,7 @@ public class CLIdemo {
 
     public void init() throws IOException{
         commandsList = new String[]{"help", "customers", "customer", "exit"};
-        DataSource ds = new DataSource("D:\\Games\\test.dat");
+        DataSource ds = new DataSource("C:\Users\Kolya\tui-lab2-34-KolyaCherednikov\TUIdemo\data\test.dat");
         ds.loadData();
     }
 
